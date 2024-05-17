@@ -9,6 +9,9 @@ int sayName(int age, char name[]){
     return age; 
 }
 
+
+//This is main function
+
 void main()
 {
   
